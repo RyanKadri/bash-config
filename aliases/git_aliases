@@ -1,0 +1,12 @@
+alias gcl='git clone'
+alias ga='git add'
+alias grm='git rm'
+alias gf='git fetch --all --prune'
+alias g='git'
+alias gs='git status'
+alias gpl='git pull'
+alias gp='git push'
+alias gpo='git push origin'
+alias gca='git commit -v -a'
+alias gb='git branch'
+alias gg="git log --graph --pretty=format:'%C(bold)%h%Creset%C(magenta)%d%Creset %s %C(yellow)<%an> %C(cyan)(%cr)%Creset' --abbrev-commit --date=relative"

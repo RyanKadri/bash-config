@@ -1,0 +1,5 @@
+curr="$(dirname "${BASH_SOURCE[0]}")"
+. $curr/git_aliases
+. $curr/npm_aliases
+. $curr/shell_aliases
+. $curr/misc_aliases

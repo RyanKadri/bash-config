@@ -1,0 +1,5 @@
+alias npi='npm install'
+alias npid='npm install --save-dev'
+alias npu='npm uninstall'
+alias npud='npm uninstall --save-dev'
+alias npr='npm run'
